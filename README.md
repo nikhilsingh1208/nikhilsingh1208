@@ -18,8 +18,8 @@
 <h3 align="left">Connect With Me:</h3><div align="left">
 
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/5MjRxuehdS) 
-[![Linkedin](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/nikhil-singh-1208-)
-[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](mailto:nikhil0101mks@gmail.com)
+[![Linkedin](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:nikhil0101mks@gmail.com)
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/nikhil-singh-1208-)
 
 
 ### Languages:
