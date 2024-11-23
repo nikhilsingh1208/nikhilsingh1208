@@ -13,7 +13,7 @@
   - My All Projects Are Available At [Github](https://github.com/nikhilsingh1208)
 
 ### Projects:
-  - 👨‍💻 PteroControl (Indicates control over Pterodactyl servers through Discord)
+  - 👨‍💻 PteroControl (Control Pterodactyl Servers Through Discord)
 
 <h3 align="left">Connect With Me:</h3><div align="left">
 
